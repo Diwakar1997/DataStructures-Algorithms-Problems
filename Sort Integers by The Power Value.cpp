@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/sort-integers-by-the-power-value/
 int power[1001];
 class Solution {
 public:
